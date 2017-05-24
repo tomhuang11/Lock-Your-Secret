@@ -3,6 +3,7 @@ Decrypted or Encrypted  Files
 
 
 Introduction
+
 You can use our application to lock your files.
 We have 2 ways to encrypt your files.AES and RSA.
 We also can produce the Private key and Public keys.
